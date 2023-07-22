@@ -1,0 +1,1 @@
+let currentWeather = 0
